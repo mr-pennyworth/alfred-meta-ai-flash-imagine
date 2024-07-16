@@ -1,0 +1,9 @@
+[{
+  "alignment" : {"vertical" : {"placement" : "bottom", "height" : 570}},
+  "customJSFilename": "flashImagine.js",
+  "customCSSFilename": "style.css",
+  "staticPaneConfig": {
+    "initURL": "https://www.meta.ai/",
+    "function": "flashImagine"
+  }
+}]
